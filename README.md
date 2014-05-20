@@ -8,7 +8,7 @@ Instead, you'll find *stories* about system calls. You'll find out how they're u
 Here's what we have so far: 
 
 * [`open`](https://github.com/jvns/syscall_menagerie/blob/master/open.md) [(pretty PDF)](https://gitprint.com/jvns/syscall_menagerie/blob/master/open.md)
-* [`write`](https://github.com/jvns/syscall_menagerie/blob/master/write.md) [(pretty PDF)](https://github.com/jvns/syscall_menagerie/blob/master/open.md)
+* [`write`](https://github.com/jvns/syscall_menagerie/blob/master/write.md) [(pretty PDF)](https://gitprint.com/jvns/syscall_menagerie/blob/master/write.md)
 
 ## Contributing
 
